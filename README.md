@@ -32,4 +32,4 @@ This is a simple Todo list task application that allows users to manage their ta
 
 ## Collaborators
 
-- [Umang](https://github.com/umang18009)
+- [![Umang](https://github.com/umang18009.png?size=50)](https://github.com/umang18009)
