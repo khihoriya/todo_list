@@ -29,3 +29,7 @@ This is a simple Todo list task application that allows users to manage their ta
 
    ```bash
        git clone https://github.com/khihoriya/todotask
+
+## Collaborators
+
+- [Umang](https://github.com/umang18009)
